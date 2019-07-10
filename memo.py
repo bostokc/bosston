@@ -18,5 +18,3 @@ elif option == '-v':
     print('\n')
     print(memo)
     
-
-
